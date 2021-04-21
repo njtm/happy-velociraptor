@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/vecteezy_triangle_1200693.png
     image_alt: App preview
     title: Decentralized Social Media Networks Integrated in Blockchain
     content: >-
